@@ -5,5 +5,5 @@ function myFunction() {
   } else {
     txt = "Connection cancelled. It will not work.";
   }
-  console.log txt;
+  console.log (txt);
 }
